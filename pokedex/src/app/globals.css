@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&family=KoHo:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,500;1,600&display=swap');
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+:root {
+  --white: #fff;
+  --red: #DC0320;
+  --Black: #000;
+
+  --white2: #B6B6B6;
+  --red2: #9C0015;
+  --black2: #3A3A3A;
+
+  --font1: 'Inter', sans-serif;
+  --font2: 'KoHo', sans-serif;
+}
+
+
+
+
